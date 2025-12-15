@@ -1,16 +1,15 @@
 ---
-title: Felipe [Last Name]
+title: Felipe Núñez Michea
 ---
 
-# Felipe [Last Name]
+# 
 
 I am a researcher in philosophy and economics.  
-My work focuses on distributive justice, fairness, claims, and relational egalitarianism.
+My work focuses on philosophy of economics, distributive justice and normative ethics.
 
 ## Research interests
 - Distributive justice and fairness
 - Claims-based approaches
-- Relational egalitarianism and status
 - Philosophy of economics
 
 ## Publications
@@ -22,6 +21,6 @@ My work focuses on distributive justice, fairness, claims, and relational egalit
 - Course name — institution
 
 ## Contact
-- Email: your@email
+- Email: fanunezmichea@gmail.com
 - Google Scholar
-- ORCID
+- ORCID: https://orcid.org/0000-0003-3571-8146
