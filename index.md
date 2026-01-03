@@ -1,5 +1,5 @@
 ---
-title: Felipe Núñez Michea
+title: Felipe Núñez-Michea
 ---
 
 # 
@@ -13,10 +13,18 @@ My work focuses on philosophy of economics, distributive justice and normative e
 - Philosophy of economics
 
 ## Publications
-    - 2024. Explicación e Inferencialismo. Una Solución Antirrealista para la Paradoja de la Explicación. Revista Culturas Científicas, Universidad de Santiago. (Peer reviewed).
-    - 2022. Una defensa restringida de la Teoría de Preferencias Reveladas. Revista Cinta de Moebio, Universidad de Chile. (Peer reviewed).
-    - 2021. El concepto de bienestar social: una relación compleja entre ética y economía. Cuadernos de Filosofía, Universidad de Concepción. (Peer reviewed).
-    - 2020. Pandemia y suerte: notas sobre el rol del Estado. Revista Internacional de Filosofía Mutatis Mutandis. (Peer reviewed).
+
+    - 2024. Explicación e Inferencialismo. Una Solución Antirrealista para la Paradoja de la Explicación. 
+    Revista Culturas Científicas, Universidad de Santiago. (Peer reviewed).
+    
+    - 2022. Una defensa restringida de la Teoría de Preferencias Reveladas. 
+    Revista Cinta de Moebio, Universidad de Chile. (Peer reviewed).
+    
+    - 2021. El concepto de bienestar social: una relación compleja entre ética y economía. 
+    Cuadernos de Filosofía, Universidad de Concepción. (Peer reviewed).
+    
+    - 2020. Pandemia y suerte: notas sobre el rol del Estado. 
+    Revista Internacional de Filosofía Mutatis Mutandis. (Peer reviewed).
 
 ## Teaching
 -Teacher Assistant in Economic Philosophy and Climate Change. Erasmus School of Economics.
