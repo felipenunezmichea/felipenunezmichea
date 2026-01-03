@@ -2,15 +2,14 @@
 title: Felipe Núñez-Michea
 ---
 ![Header image](IMG_20170905_193540.jpg)
-# 
 
-I am a researcher in philosophy and economics.  
+I am a PhD student in philosophy at the Catholic University of Chile.  
 My work focuses on philosophy of economics, distributive justice and normative ethics.
 
-## Research interests
-- Distributive justice and fairness
-- Claims-based approaches
-- Philosophy of economics
+## Previous Education
+- Research Master's in Philosophy and Economics, Erasmus Universiteit Rotterdam
+- Master's Degree in Economics, University of Santiago
+- Bachelor's Degree in Education and Philosophy, University of Santiago
 
 ## Publications
 
