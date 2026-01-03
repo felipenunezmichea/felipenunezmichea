@@ -1,7 +1,7 @@
 ---
 title: Felipe Núñez-Michea
 ---
-
+![Header image](IMG_20170905_193540.jpg)
 # 
 
 I am a researcher in philosophy and economics.  
